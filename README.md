@@ -17,7 +17,7 @@ Getting Started
 
 Future enhancements 
 
-	The following are a few of the possible enhancements suggested 
+The following are a few of the possible enhancements suggested 
 
 -	SentenceAnalyzer findLongestWord function can be changed to use Pairs and Array streaming using Java 8 to avoid loops.
 
