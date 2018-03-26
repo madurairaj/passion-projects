@@ -25,9 +25,3 @@ SentenceAnalyzer has the following dependencies
 		
 		- SentenceAnalyzer findLongestWord can be refactored to use Pairs and Array Streaming using Java 8 to avoid loops 
 		- Testing.xml to be added so the tests can be configred to be used with a CI tool 
-
-		
-		
-
-
-
