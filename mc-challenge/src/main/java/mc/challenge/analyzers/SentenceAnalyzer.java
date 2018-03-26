@@ -19,7 +19,7 @@ public class SentenceAnalyzer {
 	 * gets word length and sets to class variables 
 	 */
 		if(sentence.trim().length() > 0){
-				String regex = "[ \\t\\r\\n\\f]";
+				String regex = "[\\s\\t\\r\\n\\f]";
 				String bigword =  "";				
 				for (int i = 0; i < sentence.split(regex).length; i ++){		
 					if(sentence.split(regex)[i].length() > bigword.length()){	
