@@ -1,6 +1,6 @@
 
 SentenceAnalyzer 	
- Is a POJO with a function to read the string and find the longest word and its count.As a part of good practice and to support early testing SentenceAnalyzer has Unit tests support using JUnit. Upon execution of the tests it also produces a nice html report.
+ is a POJO with a function to read the string and find the longest word and its count.As a part of good practice and to support early testing SentenceAnalyzer has Unit tests support using JUnit. Upon execution of the tests it also produces a nice html report.
  
  
 Getting Started 
