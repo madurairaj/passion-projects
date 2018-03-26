@@ -1,6 +1,8 @@
 
 SentenceAnalyzer 	
- Is a POJO with a function to read the string and find the longest word and its count.As a part of good practice and to support early testing SentenceAnalyzer has Unit tests build to it using JUnit. Upon execution of the tests it also produces a nice html report.
+ Is a POJO with a function to read the string and find the longest word and its count.As a part of good practice and to support early testing SentenceAnalyzer has Unit tests support using JUnit. Upon execution of the tests it also produces a nice html report.
+ 
+ 
 Getting Started 
  
  SentenceAnalyzer is delivered as a maven package which has dependencies of  java 7.0, Junit and Surefire referenced in the POM. Package can be cloned from https://github.com/win-coder/passion-projects.git. 
